@@ -1,0 +1,8 @@
+{
+  "name": "Pexus - 24/7 Towing, Haulage & Auto Services",
+  "description": "Pexus provides 24/7 emergency towing, nationwide haulage, certified auto repairs, body works, and genuine auto parts across Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
